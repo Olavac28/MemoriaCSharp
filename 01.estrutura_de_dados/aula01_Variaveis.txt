@@ -1,0 +1,24 @@
+Tipo	Tamanho	Intervalo aproximado	Exemplo
+
+byte	8 bits	0 a 255	byte x = 200;
+sbyte	8 bits	-128 a 127	sbyte x = -50;
+short	16 bits	-32.768 a 32.767	short idade = 25;
+ushort	16 bits	0 a 65.535	ushort valor = 50000;
+int	    32 bits	-2 bi a +2 bi	int numero = 100;
+uint	32 bits	0 a 4 bi	uint positivo = 4000000000;
+long	64 bits	±9 quintilhões	long grande = 10000000000;
+ulong	64 bits	0 a 18 quintilhões	ulong x = 9999999999;
+
+float	7 dígitos	float pi = 3.14f;
+double	15-16 dígitos	double valor = 10.3456;
+decimal	28-29 dígitos	decimal preco = 19.99m;
+
+char	Um único caractere Unicode	char letra = 'A';
+bool	Verdadeiro/Falso	bool ativo = true;
+
+.Sobre ponteiros ->
+	Eles existem em C#, o jeito de ultilizar em bem parecido com C, exeplos de uso:
+	&	Pega o endereço de uma variável	int* p = &x;
+	*	Acessa o valor no endereço	Console.WriteLine(*p);
+	->	Acessa membros de um struct via ponteiro	p->Campo = 5;
+	[]	Indexação de ponteiros (como array)	p[i] = 0;
