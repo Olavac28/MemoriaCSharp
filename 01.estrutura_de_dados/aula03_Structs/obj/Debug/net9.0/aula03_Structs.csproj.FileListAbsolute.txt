@@ -1,0 +1,15 @@
+C:\Users\hans2\OneDrive\Documentos\MemoriaCSharp\01.estrutura_de_dados\aula03_Structs\bin\Debug\net9.0\aula03_Structs.exe
+C:\Users\hans2\OneDrive\Documentos\MemoriaCSharp\01.estrutura_de_dados\aula03_Structs\bin\Debug\net9.0\aula03_Structs.deps.json
+C:\Users\hans2\OneDrive\Documentos\MemoriaCSharp\01.estrutura_de_dados\aula03_Structs\bin\Debug\net9.0\aula03_Structs.runtimeconfig.json
+C:\Users\hans2\OneDrive\Documentos\MemoriaCSharp\01.estrutura_de_dados\aula03_Structs\bin\Debug\net9.0\aula03_Structs.dll
+C:\Users\hans2\OneDrive\Documentos\MemoriaCSharp\01.estrutura_de_dados\aula03_Structs\bin\Debug\net9.0\aula03_Structs.pdb
+C:\Users\hans2\OneDrive\Documentos\MemoriaCSharp\01.estrutura_de_dados\aula03_Structs\obj\Debug\net9.0\aula03_Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hans2\OneDrive\Documentos\MemoriaCSharp\01.estrutura_de_dados\aula03_Structs\obj\Debug\net9.0\aula03_Structs.AssemblyInfoInputs.cache
+C:\Users\hans2\OneDrive\Documentos\MemoriaCSharp\01.estrutura_de_dados\aula03_Structs\obj\Debug\net9.0\aula03_Structs.AssemblyInfo.cs
+C:\Users\hans2\OneDrive\Documentos\MemoriaCSharp\01.estrutura_de_dados\aula03_Structs\obj\Debug\net9.0\aula03_Structs.csproj.CoreCompileInputs.cache
+C:\Users\hans2\OneDrive\Documentos\MemoriaCSharp\01.estrutura_de_dados\aula03_Structs\obj\Debug\net9.0\aula03_Structs.sourcelink.json
+C:\Users\hans2\OneDrive\Documentos\MemoriaCSharp\01.estrutura_de_dados\aula03_Structs\obj\Debug\net9.0\aula03_Structs.dll
+C:\Users\hans2\OneDrive\Documentos\MemoriaCSharp\01.estrutura_de_dados\aula03_Structs\obj\Debug\net9.0\refint\aula03_Structs.dll
+C:\Users\hans2\OneDrive\Documentos\MemoriaCSharp\01.estrutura_de_dados\aula03_Structs\obj\Debug\net9.0\aula03_Structs.pdb
+C:\Users\hans2\OneDrive\Documentos\MemoriaCSharp\01.estrutura_de_dados\aula03_Structs\obj\Debug\net9.0\aula03_Structs.genruntimeconfig.cache
+C:\Users\hans2\OneDrive\Documentos\MemoriaCSharp\01.estrutura_de_dados\aula03_Structs\obj\Debug\net9.0\ref\aula03_Structs.dll
