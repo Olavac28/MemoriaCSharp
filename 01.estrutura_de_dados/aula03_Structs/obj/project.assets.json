@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\hans2\\.nuget\\packages\\": {}
+    "C:\\Users\\Olá\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hans2\\OneDrive\\Documentos\\MemoriaCSharp\\01.estrutura_de_dados\\aula03_Structs\\aula03_Structs.csproj",
+      "projectUniqueName": "C:\\Users\\Olá\\Documents\\MemoriaCSharp\\01.estrutura_de_dados\\aula03_Structs\\aula03_Structs.csproj",
       "projectName": "aula03_Structs",
-      "projectPath": "C:\\Users\\hans2\\OneDrive\\Documentos\\MemoriaCSharp\\01.estrutura_de_dados\\aula03_Structs\\aula03_Structs.csproj",
-      "packagesPath": "C:\\Users\\hans2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hans2\\OneDrive\\Documentos\\MemoriaCSharp\\01.estrutura_de_dados\\aula03_Structs\\obj\\",
+      "projectPath": "C:\\Users\\Olá\\Documents\\MemoriaCSharp\\01.estrutura_de_dados\\aula03_Structs\\aula03_Structs.csproj",
+      "packagesPath": "C:\\Users\\Olá\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Olá\\Documents\\MemoriaCSharp\\01.estrutura_de_dados\\aula03_Structs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hans2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Olá\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

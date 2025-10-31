@@ -1,0 +1,15 @@
+C:\Users\Olá\Documents\MemoriaCSharp\02.POO\aula04_Objetos\obj\Debug\net9.0\aula04_Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olá\Documents\MemoriaCSharp\02.POO\aula04_Objetos\obj\Debug\net9.0\aula04_Objetos.AssemblyInfoInputs.cache
+C:\Users\Olá\Documents\MemoriaCSharp\02.POO\aula04_Objetos\obj\Debug\net9.0\aula04_Objetos.AssemblyInfo.cs
+C:\Users\Olá\Documents\MemoriaCSharp\02.POO\aula04_Objetos\obj\Debug\net9.0\aula04_Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Olá\Documents\MemoriaCSharp\02.POO\aula04_Objetos\obj\Debug\net9.0\aula04_Objetos.sourcelink.json
+C:\Users\Olá\Documents\MemoriaCSharp\02.POO\aula04_Objetos\bin\Debug\net9.0\aula04_Objetos.exe
+C:\Users\Olá\Documents\MemoriaCSharp\02.POO\aula04_Objetos\bin\Debug\net9.0\aula04_Objetos.deps.json
+C:\Users\Olá\Documents\MemoriaCSharp\02.POO\aula04_Objetos\bin\Debug\net9.0\aula04_Objetos.runtimeconfig.json
+C:\Users\Olá\Documents\MemoriaCSharp\02.POO\aula04_Objetos\bin\Debug\net9.0\aula04_Objetos.dll
+C:\Users\Olá\Documents\MemoriaCSharp\02.POO\aula04_Objetos\bin\Debug\net9.0\aula04_Objetos.pdb
+C:\Users\Olá\Documents\MemoriaCSharp\02.POO\aula04_Objetos\obj\Debug\net9.0\aula04_Objetos.dll
+C:\Users\Olá\Documents\MemoriaCSharp\02.POO\aula04_Objetos\obj\Debug\net9.0\refint\aula04_Objetos.dll
+C:\Users\Olá\Documents\MemoriaCSharp\02.POO\aula04_Objetos\obj\Debug\net9.0\aula04_Objetos.pdb
+C:\Users\Olá\Documents\MemoriaCSharp\02.POO\aula04_Objetos\obj\Debug\net9.0\aula04_Objetos.genruntimeconfig.cache
+C:\Users\Olá\Documents\MemoriaCSharp\02.POO\aula04_Objetos\obj\Debug\net9.0\ref\aula04_Objetos.dll
